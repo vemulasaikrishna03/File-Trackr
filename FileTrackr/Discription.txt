@@ -1,0 +1,12 @@
+Project_name:FileTrackr
+functionalities:
+Backup of functionalities
+version mantainence
+create
+update
+delete
+rename
+read
+restore version
+rollback changes
+tag version
